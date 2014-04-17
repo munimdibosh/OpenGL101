@@ -10,7 +10,7 @@ It was done as a part of the Computer Graphics course. While completing the proj
 
 Dependency
 ===========
-The project is compiled in *XCode*. If you don't have a Macbook/Mac PC then you can still use the source simply by putting them to your source folder in *Visual Studio* or *codeBlocks*project.
+The project is compiled in *XCode*. If you don't have a Macbook/Mac PC then you can still use the source simply by putting them to your source folder in *Visual Studio* or *codeBlocks* project.
 
 Open Source
 ===========
