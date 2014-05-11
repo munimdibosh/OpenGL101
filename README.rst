@@ -16,6 +16,10 @@ Open Source
 ===========
 This is an Open Source project. If you could add some other interesting stuffs don't forget to shoot a `mail`_. I would love to know.
 
+Demo
+====
+.. image:: https://bitbucket.org/coderguy194/iac-seminar-room-of-buet-by-opengl/raw/master/iac.gif
+
 .. GENERAL LINKS
 
 .. _`mail`: abdulmunim.buet@gmail.com
